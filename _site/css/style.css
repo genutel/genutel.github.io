@@ -32,3 +32,12 @@
 .post-area a:hover {
   color: #0D0017;
 }
+
+#slider, #global-header {
+  margin-top: 15px;
+}
+
+
+.navbar-brand img {
+  height: 75px;
+}
